@@ -1,5 +1,5 @@
 # Hello, I'm Bui Duy Khanh  :palm_tree:
-### :watermelon: Frontend Engineer  
+### :watermelon: Software Engineer  
 ***  
 ![lordshenk's github stats](https://github-readme-stats.vercel.app/api?username=fysherman&count_private=true&show_icons=true&theme=tokyonight)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fysherman&layout=compact&theme=tokyonight)  
